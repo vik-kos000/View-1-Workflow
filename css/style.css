@@ -2,6 +2,7 @@ body {
     margin: 50px;
     font-family: Helvetica, sans-serif;
     font-size: 100%;
+    background-color: rgb(244, 229, 222);
 }
 
 Img{
@@ -35,4 +36,6 @@ h3{
     padding: 1rem;
 }
 
-
+a{
+    font-weight: bold;
+}
